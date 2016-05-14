@@ -1,8 +1,5 @@
-# eshasrestaurant
+# Esha's Restaurant
 Part of the Dash tutorials from General Assembly
-
-Esha's Restaurant
-=================
 
 1. Description
 ----------------
